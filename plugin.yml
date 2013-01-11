@@ -1,0 +1,7 @@
+name: RandomTrees
+main: com.gmail.mikeundead.RandomTrees
+version: 1.2
+commands:
+   rt:
+      description: Main command
+      usage: /rt
