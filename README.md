@@ -3,4 +3,4 @@ RandomTrees
 
 Random Trees! - What could possibly sprout next?!
 
-More Informations under http://dreanor.github.com/RandomTrees/
+More Informations under http://dev.bukkit.org/server-mods/random-trees/
