@@ -1,9 +1,6 @@
 RandomTrees
 ===========
 
-
-<<youtube aAvebfBkGdA>>
-
 **Normal Trees? Bah! Lets have Random Trees!**
 
 Random Trees makes every new tree you plant and grow, have a RANDOM BLOCK TYPE AS ITS LEAVES! This could be absolutely anything from Cobweb, to Diamond Blocks, to TNT, to Lava, to Glowstone, to Enchantment Tables, to Glass... the list goes on! What could possibly sprout next?!
